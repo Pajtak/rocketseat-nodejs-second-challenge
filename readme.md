@@ -37,23 +37,3 @@
 ## [x]- O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
 
 ### Contexto da aplicação
-
-É comum ao estar desenvolvendo uma API, imaginar como esses dados vão estar sendo utilizados pelo cliente web e/ou mobile.
-
-Por isso, deixamos abaixo o link para o layout da aplicação que utilizaria essa API.
-
-## Entrega
-
-Após concluir o desafio, você deve enviar a URL do seu código no GitHub para a plataforma.
-
-Além disso, que tal fazer um post no LinkedIn compartilhando o seu aprendizado e contando como foi a experiência?
-
-É uma excelente forma de demonstrar seus conhecimentos e atrair novas oportunidades!
-
-Feito com 💜 por Rocketseat 👋
-
-## Repositório de consulta
-
-Antes de acessar o repositório com o desafio concluído, recomendamos fortemente que tente realizar o desafio.
-
-Caso tenha dúvidas/dificuldades técnicas, temos o fórum para te ajudar.
